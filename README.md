@@ -25,7 +25,7 @@ BSc Engg in Computer Science & Engineering | Bangladesh University of Business &
 - Stay updated on state-of-the-art (SOTA) technologies in the field of artificial intelligence through thorough research.
 - Develop and implement predictive models using cutting-edge techniques and publish research papers detailing the findings and contributions.
 - Provide technical guidance and mentorship to junior researchers and team members. Attend conferences, workshops, and seminars to exchange ideas and stay connected with the academic community.
-- 
+
 ## Publications
 1. Mridha, M.F., Das, S.C., Kabir, M.M., Lima, A.A., Islam, M.R. and Watanobe, Y., 2021. Brain-computer interface: Advancement and challenges. Sensors, 21(17), p.5746.
 2. Mridha, M.F., Lima, A.A., Nur, K., Das, S.C., Hasan, M. and Kabir, M.M., 2021. A survey of automatic text summarization: Progress, process and challenges. IEEE Access, 9, pp.156043-156070.
