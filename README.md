@@ -11,7 +11,7 @@ BSc Engg in Computer Science & Engineering | Bangladesh University of Business &
 
 ### Work Experience
 - Compliance Engineer @ Gills Consulting Associates (_December 2022 - December 2023_)
-Responsibilities: Evaluating the user interface (UI) and the design aspect of websites and fostering strong collaboration with clients by comprehensively understanding their requirements. Take on the central role as the primary liaison for client communication and keeping track of project updates. Create compliance documents, oversee compliance projects, and communicate updates to both internal stakeholders and clients.
+** Responsibilities: Evaluating the user interface (UI) and the design aspect of websites and fostering strong collaboration with clients by comprehensively understanding their requirements. Take on the central role as the primary liaison for client communication and keeping track of project updates. Create compliance documents, oversee compliance projects, and communicate updates to both internal stakeholders and clients.
 
 ### Research Experience
 - Researcher @ Advanced Machine Intelligence Research Lab (AMIRL) (_May 2023 - Present_)**
