@@ -7,7 +7,7 @@
 - Miscellaneous: Linux, Git, Latex, Figma
 
 ## Education
-BSc Engg in Computer Science & Engineering | Bangladesh University of Business & Technology (BUBT) (_August 2021_)
+BSc. Engg. in Computer Science & Engineering | Bangladesh University of Business & Technology (BUBT) (_August 2021_)
 
 ## Work Experience
 **Compliance Engineer @ Gills Consulting Associates (_December 2022 - December 2023_)**
