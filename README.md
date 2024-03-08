@@ -10,10 +10,13 @@
 BSc Engg in Computer Science & Engineering | Bangladesh University of Business & Technology (BUBT) (_August 2021_)
 
 ### Work Experience
-- Researcher @ Advanced Machine Intelligence Research Lab (AMIRL) (_May 2023 - Present_)**
 - Compliance Engineer @ Gills Consulting Associates (_December 2022 - December 2023_)
-- Research Engineer @ Advanced Machine Learning Lab (AML) (_March 2021 - May 2022)
+Responsibilities: Evaluating the user interface (UI) and the design aspect of websites and fostering strong collaboration with clients by comprehensively understanding their requirements. Take on the central role as the primary liaison for client communication and keeping track of project updates. Create compliance documents, oversee compliance projects, and communicate updates to both internal stakeholders and clients.
 
+### Research Experience
+- Researcher @ Advanced Machine Intelligence Research Lab (AMIRL) (_May 2023 - Present_)**
+- Research Engineer @ Advanced Machine Learning Lab (AML) (_March 2021 - May 2022_)
+  
 ### Publications
 1. Mridha, M.F., Das, S.C., Kabir, M.M., Lima, A.A., Islam, M.R. and Watanobe, Y., 2021. Brain-computer interface: Advancement and challenges. Sensors, 21(17), p.5746.
 2. Mridha, M.F., Lima, A.A., Nur, K., Das, S.C., Hasan, M. and Kabir, M.M., 2021. A survey of automatic text summarization: Progress, process and challenges. IEEE Access, 9, pp.156043-156070.
