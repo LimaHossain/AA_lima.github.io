@@ -6,18 +6,27 @@
 - Frameworks: PyTorch, Tensorflow, OpenCV, Scikit-learn
 - Miscellaneous: Linux, Git, Latex, Figma
 
-### Education
+## Education
 BSc Engg in Computer Science & Engineering | Bangladesh University of Business & Technology (BUBT) (_August 2021_)
 
-### Work Experience
-- Compliance Engineer @ Gills Consulting Associates (_December 2022 - December 2023_)
-** Responsibilities: Evaluating the user interface (UI) and the design aspect of websites and fostering strong collaboration with clients by comprehensively understanding their requirements. Take on the central role as the primary liaison for client communication and keeping track of project updates. Create compliance documents, oversee compliance projects, and communicate updates to both internal stakeholders and clients.
+## Work Experience
+**Compliance Engineer @ Gills Consulting Associates (_December 2022 - December 2023_)**
+- Evaluating the user interface (UI) and the design aspect of websites and fostering strong collaboration with clients by comprehensively understanding their requirements.
+- Take on the central role as the primary liaison for client communication and keeping track of project updates.
+- Create compliance documents, oversee compliance projects, and communicate updates to both internal stakeholders and clients.
 
-### Research Experience
-- Researcher @ Advanced Machine Intelligence Research Lab (AMIRL) (_May 2023 - Present_)**
-- Research Engineer @ Advanced Machine Learning Lab (AML) (_March 2021 - May 2022_)
+## Research Experience
+**Researcher @ Advanced Machine Intelligence Research Lab (AMIRL) (_May 2023 - Present_)**
+- Responsible for planning and designing studies, outlining methodologies to investigate specific research questions.
+- Identify gaps in existing literature, conduct literature reviews, and strive to contribute new insights to the academic or professional community.
+- Collaborate with other researchers, both within and outside the organization, to enhance the scope and impact of research projects.
   
-### Publications
+**Research Engineer @ Advanced Machine Learning Lab (AML) (_March 2021 - May 2022_)**
+- Stay updated on state-of-the-art (SOTA) technologies in the field of artificial intelligence through thorough research.
+- Develop and implement predictive models using cutting-edge techniques and publish research papers detailing the findings and contributions.
+- Provide technical guidance and mentorship to junior researchers and team members. Attend conferences, workshops, and seminars to exchange ideas and stay connected with the academic community.
+- 
+## Publications
 1. Mridha, M.F., Das, S.C., Kabir, M.M., Lima, A.A., Islam, M.R. and Watanobe, Y., 2021. Brain-computer interface: Advancement and challenges. Sensors, 21(17), p.5746.
 2. Mridha, M.F., Lima, A.A., Nur, K., Das, S.C., Hasan, M. and Kabir, M.M., 2021. A survey of automatic text summarization: Progress, process and challenges. IEEE Access, 9, pp.156043-156070.
 3. Lima, A.A., Mridha, M.F., Das, S.C., Kabir, M.M., Islam, M.R. and Watanobe, Y., 2022. A comprehensive survey on the detection, classification, and challenges of neurological disorders. Biology, 11(3), p.469.
