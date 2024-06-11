@@ -39,5 +39,5 @@ BSc. Engg. in Computer Science & Engineering | Bangladesh University of Business
 10. Mridha, M.F., Mohammad, Z., Kabir, M.M., Lima, A.A., Das, S.C., Islam, M.R. and Watanobe, Y., 2023. An Unsupervised Writer Identification Based on Generating Clusterable Embeddings. Computer Systems Science & Engineering, 46(2).
 
 ## Hobbies
-Travel enthusiast and avid book reader. I believe in this quote "The world is a book and those who do not travel read only one page." - Saint Augustine. **
+Travel enthusiast and avid book reader. I believe in this quote "The world is a book and those who do not travel read only one page." - Saint Augustine.
 
