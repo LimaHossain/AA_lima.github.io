@@ -13,7 +13,7 @@ BSc. Engg. in Computer Science & Engineering | Bangladesh University of Business
 **Compliance Engineer @ Gills Consulting Associates (_December 2022 - December 2023_)**
 - Evaluating the user interface (UI) and the design aspect of websites and fostering strong collaboration with clients by comprehensively understanding their requirements.
 - Take on the central role as the primary liaison for client communication and keeping track of project updates.
-- Create compliance documents, oversee compliance projects, and communicate updates to both internal stakeholders and clients.
+- Create compliance documents, oversee compliance projects, and communicate updates to internal stakeholders and clients.
 
 ## Research Experience
 **Researcher @ Advanced Machine Intelligence Research Lab (AMIRL) (_May 2023 - Present_)**
@@ -22,7 +22,7 @@ BSc. Engg. in Computer Science & Engineering | Bangladesh University of Business
 - Collaborate with other researchers, both within and outside the organization, to enhance the scope and impact of research projects.
   
 **Research Engineer @ Advanced Machine Learning Lab (AML) (_March 2021 - May 2022_)**
-- Stay updated on state-of-the-art (SOTA) technologies in the field of artificial intelligence through thorough research.
+- Stay updated on state-of-the-art (SOTA) technologies in artificial intelligence through thorough research.
 - Develop and implement predictive models using cutting-edge techniques and publish research papers detailing the findings and contributions.
 - Provide technical guidance and mentorship to junior researchers and team members. Attend conferences, workshops, and seminars to exchange ideas and stay connected with the academic community.
 
@@ -38,4 +38,8 @@ BSc. Engg. in Computer Science & Engineering | Bangladesh University of Business
 9. Mohsin Kabir, M., Lima, A.A., Mridha, M.F., Abdul Hamid, M. and Monowar, M.M., 2022. Forecasting Closing Price of Stock Market Using LSTM Network: An Analysis from the Perspective of Dhaka Stock Exchange. In Proceedings of the International Conference on Big Data, IoT, and Machine Learning: BIM 2021 (pp. 289-299). Springer Singapore.
 10. Mridha, M.F., Mohammad, Z., Kabir, M.M., Lima, A.A., Das, S.C., Islam, M.R. and Watanobe, Y., 2023. An Unsupervised Writer Identification Based on Generating Clusterable Embeddings. Computer Systems Science & Engineering, 46(2).
 
+## Hobbies
+Travel enthusiast and avid book reader. 
+
+** The world is a book and those who do not travel read only one page." - Saint Augustine. **
 
